@@ -14,6 +14,7 @@
         <module>domain</module>
         <module>api</module>
         <module>domain-rich-context</module>
+        <module>decorator</module>
     </modules>
 
     <parent>
