@@ -1,6 +1,6 @@
 package com.xuesran.ddd.models;
 
-import com.xuesran.ddd.domain.repository.MySubscriptions;
+import com.xuesran.ddd.repository.MySubscriptions;
 import lombok.*;
 
 /**
