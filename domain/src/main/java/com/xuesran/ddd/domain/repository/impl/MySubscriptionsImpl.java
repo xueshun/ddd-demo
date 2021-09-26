@@ -1,8 +1,8 @@
-package com.xuesran.ddd.repository.impl;
+package com.xuesran.ddd.domain.repository.impl;
 
 import com.xuesran.ddd.models.Subscription;
 import com.xuesran.ddd.models.User;
-import com.xuesran.ddd.repository.MySubscriptions;
+import com.xuesran.ddd.domain.repository.MySubscriptions;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package com.xuesran.ddd.repository;
+package com.xuesran.ddd.domain.repository;
 
 import com.xuesran.ddd.models.User;
 

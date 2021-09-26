@@ -1,7 +1,6 @@
-package com.xuesran.ddd.repository;
+package com.xuesran.ddd.domain.repository;
 
 import com.xuesran.ddd.models.Subscription;
-import com.xuesran.ddd.models.User;
 
 import java.util.List;
 

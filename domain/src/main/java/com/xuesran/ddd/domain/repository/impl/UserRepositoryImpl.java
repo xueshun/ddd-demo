@@ -1,7 +1,7 @@
-package com.xuesran.ddd.repository.impl;
+package com.xuesran.ddd.domain.repository.impl;
 
 import com.xuesran.ddd.models.User;
-import com.xuesran.ddd.repository.UserRepository;
+import com.xuesran.ddd.domain.repository.UserRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
